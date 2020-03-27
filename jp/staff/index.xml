@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Our Courses on Educenter | hugo education template</title>
+    <link>https://masaaki-ozaki.github.io/sumire-sample/jp/staff/</link>
+    <description>Recent content in Our Courses on Educenter | hugo education template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>jp</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [themefisher](https://themefisher.com)</copyright>
+    
+	<atom:link href="https://masaaki-ozaki.github.io/sumire-sample/jp/staff/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alex Rook</title>
+      <link>https://masaaki-ozaki.github.io/sumire-sample/jp/staff/alex-rook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://masaaki-ozaki.github.io/sumire-sample/jp/staff/alex-rook/</guid>
+      <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Clark Malik</title>
+      <link>https://masaaki-ozaki.github.io/sumire-sample/jp/staff/clark-malik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://masaaki-ozaki.github.io/sumire-sample/jp/staff/clark-malik/</guid>
+      <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Devid Luis</title>
+      <link>https://masaaki-ozaki.github.io/sumire-sample/jp/staff/devid-luis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://masaaki-ozaki.github.io/sumire-sample/jp/staff/devid-luis/</guid>
+      <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Duis Rio</title>
+      <link>https://masaaki-ozaki.github.io/sumire-sample/jp/staff/duis-rio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://masaaki-ozaki.github.io/sumire-sample/jp/staff/duis-rio/</guid>
+      <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Jacke Mastio</title>
+      <link>https://masaaki-ozaki.github.io/sumire-sample/jp/staff/jacke-mastio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://masaaki-ozaki.github.io/sumire-sample/jp/staff/jacke-mastio/</guid>
+      <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Zim Cook</title>
+      <link>https://masaaki-ozaki.github.io/sumire-sample/jp/staff/zim-cook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://masaaki-ozaki.github.io/sumire-sample/jp/staff/zim-cook/</guid>
+      <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+  </channel>
+</rss>
