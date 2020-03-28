@@ -184,7 +184,7 @@ body {
 
 ol,
 ul {
-  list-style-type: none;
+  list-style-type: circle;
   margin: 0px; }
 
 img {
@@ -289,6 +289,9 @@ a h4:hover {
 
 .text-dark {
   color: #1e1e4b !important; }
+
+.text-white {
+  color: #fff !important; }
 
 .font-secondary {
   font-family: "futura-bold"; }
