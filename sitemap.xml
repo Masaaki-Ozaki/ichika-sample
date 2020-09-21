@@ -3,322 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+    <loc>http://example.org/post/</loc>
+    <lastmod>2018-12-26T12:30:01+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/event/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+    <loc>http://example.org/post/red-pepper-miso-wings-2/</loc>
+    <lastmod>2018-12-26T12:30:01+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/event/event-1/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+    <loc>http://example.org/</loc>
+    <lastmod>2018-12-26T12:30:01+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/event/event-2/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+    <loc>http://example.org/post/red-pepper-miso-wings/</loc>
+    <lastmod>2018-12-26T12:28:47+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/event/event-3/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+    <loc>http://example.org/post/homestyle-chicken-pot-pie/</loc>
+    <lastmod>2018-12-26T12:23:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/event/event-4/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+    <loc>http://example.org/post/restaurant/</loc>
+    <lastmod>2018-12-26T11:40:41+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/event/event-5/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+    <loc>http://example.org/post/my-first-post/</loc>
+    <lastmod>2018-12-12T04:28:21+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/event/event-6/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+    <loc>http://example.org/categories/</loc>
   </url>
   
   <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/tags/advice/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/tags/ai/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/course/course-5/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/course/course-3/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/tags/automation/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/categories/automation-system/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/categories/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/categories/deep-learning/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/tags/eco/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/categories/eco-system/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/tags/education/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/categories/education-system/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/blog/blog-post-1/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/blog/blog-post-2/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/blog/blog-post-3/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/blog/blog-post-4/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/blog/blog-post-5/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/blog/blog-post-6/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/tags/english/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/categories/english-learning/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/research/research-1/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/research/research-2/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/research/research-3/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/research/research-4/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/research/research-5/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/research/research-6/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/course/course-4/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/blog/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/course/course-2/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/categories/mathmatics-learning/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/notice/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/course/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/research/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/course/course-1/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/tags/rules/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/tags/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/notice/notice-1/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/notice/notice-2/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/notice/notice-3/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/notice/notice-4/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/notice/notice-5/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/notice/notice-6/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/course/course-6/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/staff/alex-rook/</loc>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/author/</loc>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/scholarship/scholarship-1/</loc>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/scholarship/scholarship-2/</loc>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/scholarship/scholarship-3/</loc>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/staff/clark-malik/</loc>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/staff/devid-luis/</loc>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/staff/duis-rio/</loc>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/staff/jacke-mastio/</loc>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/author/john-doe/</loc>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/author/mark-dinn/</loc>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/staff/</loc>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/scholarship/</loc>
-  </url>
-  
-  <url>
-    <loc>https://masaaki-ozaki.github.io/sumire-sample/staff/zim-cook/</loc>
+    <loc>http://example.org/tags/</loc>
   </url>
   
 </urlset>
